@@ -16,7 +16,7 @@
 ![sublime](https://img.shields.io/badge/Sublime-4B4B4B?style=for-the-badge)
 ![linux](https://img.shields.io/badge/Linux-005B83?style=for-the-badge)
 
-### Activity in git
+### Activity on github
 <div style="display: inline-block;">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kesleymartins">
   <img src="https://github-readme-stats.vercel.app/api?username=kesleymartins&show_icons=true">
