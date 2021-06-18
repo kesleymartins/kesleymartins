@@ -1,16 +1,26 @@
-### Hi there 👋
+##  Hi, I'm Kesley
 
-<!--
-**kesleymartins/kesleymartins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Languages
+![C++](https://img.shields.io/badge/C++-005C99?style=for-the-badge)
+![Ruby](https://img.shields.io/badge/Ruby-D32332?style=for-the-badge)
 
-Here are some ideas to get you started:
+### Frameworks
+![Rails](https://img.shields.io/badge/Rails-D40011?style=for-the-badge)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### libraries
+![SFML](https://img.shields.io/badge/SFML-629C32?style=for-the-badge)
+
+### Tools
+![git](https://img.shields.io/badge/Git-23292E?style=for-the-badge)
+![atom](https://img.shields.io/badge/Atom-353335?style=for-the-badge)
+![sublime](https://img.shields.io/badge/Sublime-4B4B4B?style=for-the-badge)
+![linux](https://img.shields.io/badge/Linux-005B83?style=for-the-badge)
+
+### Activity in git
+<div style="display: inline-block;">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kesleymartins">
+  <img src="https://github-readme-stats.vercel.app/api?username=kesleymartins&show_icons=true">
+</div>
+
+![](https://komarev.com/ghpvc/?username=kesleymartins&style=flat-square)
+
