@@ -18,7 +18,7 @@
 
 ### Activity on github
 <div style="display: inline-block;">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kesleymartins&compact">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kesleymartins">
   <img src="https://github-readme-stats.vercel.app/api?username=kesleymartins&show_icons=true">
 </div>
 
