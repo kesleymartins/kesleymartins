@@ -4,14 +4,14 @@
 <!-- [![Linkedin](https://img.shields.io/badge/Linkedin-006BBD?style=for-the-badge)](https://www.linkedin.com/in/kesleymartins/)
  -->
 
-### Languages
-[![C++](https://img.shields.io/badge/C++-005C99?style=for-the-badge)](http://www.cplusplus.com)
-[![Ruby](https://img.shields.io/badge/Ruby-D32332?style=for-the-badge)](https://www.ruby-lang.org/)
+<!-- ### Languages -->
+<!-- [![C++](https://img.shields.io/badge/C++-005C99?style=for-the-badge)](http://www.cplusplus.com) -->
+<!-- [![Ruby](https://img.shields.io/badge/Ruby-D32332?style=for-the-badge)](https://www.ruby-lang.org/) -->
 
-### Frameworks
+<!-- ### Frameworks -->
 <!-- [![Rails](https://img.shields.io/badge/Rails-D40011?style=for-the-badge)](https://rubyonrails.org)
  -->
-### libraries
+<!-- ### libraries -->
 <!-- [![SFML](https://img.shields.io/badge/SFML-629C32?style=for-the-badge)](https://www.sfml-dev.org)
  -->
 ### Tools
