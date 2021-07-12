@@ -1,8 +1,7 @@
 ##  Hi, I'm Kesley
 
 ### Contact me
-<!-- [![Linkedin](https://img.shields.io/badge/Linkedin-006BBD?style=for-the-badge)](https://www.linkedin.com/in/kesleymartins/)
- -->
+[![Linkedin](https://img.shields.io/badge/Linkedin-006BBD?style=for-the-badge)](https://www.linkedin.com/in/kesleymartins/)
 
 <!-- ### Languages -->
 <!-- [![C++](https://img.shields.io/badge/C++-005C99?style=for-the-badge)](http://www.cplusplus.com) -->
@@ -20,11 +19,11 @@
 [![sublime](https://img.shields.io/badge/Sublime-4B4B4B?style=for-the-badge)](https://www.sublimetext.com)
 [![linux](https://img.shields.io/badge/Linux-005B83?style=for-the-badge)](https://linux.org)
 
-### Activity on github
-<div style="display: inline-block;">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kesleymartins">
-  <img src="https://github-readme-stats.vercel.app/api?username=kesleymartins&show_icons=true">
-</div>
+<!-- ### Activity on github -->
+<!-- <div style="display: inline-block;"> -->
+<!--   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kesleymartins"> -->
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=kesleymartins&show_icons=true"> -->
+<!-- </div> -->
 
-![](https://komarev.com/ghpvc/?username=kesleymartins&style=flat-square)
+<!-- ![](https://komarev.com/ghpvc/?username=kesleymartins&style=flat-square) -->
 
