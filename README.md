@@ -4,7 +4,7 @@
 [![Linkedin](https://img.shields.io/badge/Linkedin-006BBD?style=for-the-badge)](https://www.linkedin.com/in/kesleymartins/)
 
 ### My Repositories
-[![BitBucket](https://img.shields.io/badge/Linkedin-006BBD?style=for-the-badge)](https://bitbucket.org/kesleymartins/)
+[![BitBucket](https://img.shields.io/badge/BitBucket-006BBD?style=for-the-badge)](https://bitbucket.org/kesleymartins/)
 
 <!-- ### Languages -->
 <!-- [![C++](https://img.shields.io/badge/C++-005C99?style=for-the-badge)](http://www.cplusplus.com) -->
