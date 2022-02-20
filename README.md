@@ -3,7 +3,15 @@ A web Full stack developer
 
 ---
 #### My Stack
-![ruby](https://img.shields.io/badge/ruby-1f2430?style=for-the-badge&logo=ruby)![php](https://img.shields.io/badge/php-1f2430?style=for-the-badge&logo=php)![javascript](https://img.shields.io/badge/javascript-1f2430?style=for-the-badge&logo=javascript)![symfony](https://img.shields.io/badge/symfony-1f2430?style=for-the-badge&logo=symfony)![rails](https://img.shields.io/badge/ruby_on_rails-1f2430?style=for-the-badge&logo=rubyonrails)![phpstorm](https://img.shields.io/badge/php_storm-1f2430?style=for-the-badge&logo=phpstorm)![vscode](https://img.shields.io/badge/vs_code-1f2430?style=for-the-badge&logo=visualstudiocode)![hyper](https://img.shields.io/badge/hyper-1f2430?style=for-the-badge&logo=hyper)![fedora](https://img.shields.io/badge/fedora-1f2430?style=for-the-badge&logo=fedora)
+![ruby](https://img.shields.io/badge/ruby-1f2430?style=for-the-badge&logo=ruby)
+![php](https://img.shields.io/badge/php-1f2430?style=for-the-badge&logo=php)
+![javascript](https://img.shields.io/badge/javascript-1f2430?style=for-the-badge&logo=javascript)
+![symfony](https://img.shields.io/badge/symfony-1f2430?style=for-the-badge&logo=symfony)
+![rails](https://img.shields.io/badge/ruby_on_rails-1f2430?style=for-the-badge&logo=rubyonrails)
+![phpstorm](https://img.shields.io/badge/php_storm-1f2430?style=for-the-badge&logo=phpstorm)
+![vscode](https://img.shields.io/badge/vs_code-1f2430?style=for-the-badge&logo=visualstudiocode)
+![hyper](https://img.shields.io/badge/hyper-1f2430?style=for-the-badge&logo=hyper)
+![fedora](https://img.shields.io/badge/fedora-1f2430?style=for-the-badge&logo=fedora)
 
 ---
 #### Badges
