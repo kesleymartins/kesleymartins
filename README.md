@@ -11,8 +11,6 @@ A web Full stack developer
 ![phpstorm](https://img.shields.io/badge/php_storm-1f2430?style=for-the-badge&logo=phpstorm)
 ![vscode](https://img.shields.io/badge/vs_code-1f2430?style=for-the-badge&logo=visualstudiocode)
 ![hyper](https://img.shields.io/badge/hyper-1f2430?style=for-the-badge&logo=hyper)
-![fedora](https://img.shields.io/badge/fedora-1f2430?style=for-the-badge&logo=fedora)
-
 ---
 #### Badges
 Code Wars: ![code wars badge](https://www.codewars.com/users/kesleymartins/badges/micro)
