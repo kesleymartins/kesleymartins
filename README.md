@@ -1,5 +1,5 @@
 ## Kesley Martins 
-A web Full stack developer
+Symfony | Ruby on Rails
 
 ---
 #### My Stack
