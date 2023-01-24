@@ -9,8 +9,8 @@ Symfony | Ruby on Rails
 ![symfony](https://img.shields.io/badge/symfony-1f2430?style=for-the-badge&logo=symfony)
 ![rails](https://img.shields.io/badge/ruby_on_rails-1f2430?style=for-the-badge&logo=rubyonrails)
 ---
-#### Badges
-Code Wars: ![code wars badge](https://www.codewars.com/users/kesleymartins/badges/micro)
+#### Code Wars
+![code wars badge](https://www.codewars.com/users/kesleymartins/badges/micro)
 
 ---
 #### Git stats
