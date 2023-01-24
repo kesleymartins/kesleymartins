@@ -1,6 +1,5 @@
 ## Kesley Martins 
-Symfony | Ruby on Rails
-
+PHP | Ruby
 ---
 #### My Stack
 ![ruby](https://img.shields.io/badge/ruby-1f2430?style=for-the-badge&logo=ruby)
@@ -11,7 +10,6 @@ Symfony | Ruby on Rails
 ---
 #### Code Wars
 ![code wars badge](https://www.codewars.com/users/kesleymartins/badges/micro)
-
 ---
 #### Git stats
 <div style="text-align: center;">
