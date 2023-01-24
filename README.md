@@ -1,7 +1,6 @@
-## Kesley Martins 
-PHP | Ruby
----
-#### My Stack
+### Kesley Martins 
+
+#### Stack
 ![ruby](https://img.shields.io/badge/ruby-1f2430?style=for-the-badge&logo=ruby)
 ![php](https://img.shields.io/badge/php-1f2430?style=for-the-badge&logo=php)
 ![javascript](https://img.shields.io/badge/javascript-1f2430?style=for-the-badge&logo=javascript)
