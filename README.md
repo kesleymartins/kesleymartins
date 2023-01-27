@@ -12,7 +12,6 @@
 ---
 #### Git stats
 <div style="text-align: center;">
-    <img width="38%" src="https://github-readme-stats.vercel.app/api?username=kesleymartins&count_private=true&hide=contribs,issues&theme=ayu-mirage">
-    <img width="32%" src="https://github-readme-streak-stats.herokuapp.com/?user=kesleymartins&theme=ayu-mirage">
-    <img width="27%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kesleymartins&layout=compact&theme=ayu-mirage">
+    <img width="50%" src="https://github-readme-stats.vercel.app/api?username=kesleymartins&count_private=true&hide=contribs,issues&theme=ayu-mirage">
+    <img width="42%" src="https://github-readme-streak-stats.herokuapp.com/?user=kesleymartins&theme=ayu-mirage">
 </div>
