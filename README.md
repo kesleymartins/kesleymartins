@@ -7,9 +7,6 @@
 ![symfony](https://img.shields.io/badge/symfony-1f2430?style=for-the-badge&logo=symfony)
 ![javascript](https://img.shields.io/badge/javascript-1f2430?style=for-the-badge&logo=javascript)
 ---
-#### Code Wars
-![code wars badge](https://www.codewars.com/users/kesleymartins/badges/micro)
----
 #### Git stats
 <div style="text-align: center;">
     <img width="38%" src="https://github-readme-stats.vercel.app/api?username=kesleymartins&count_private=true&hide=contribs,issues&rank_icon=github&theme=ayu-mirage">
